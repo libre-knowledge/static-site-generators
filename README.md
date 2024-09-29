@@ -10,7 +10,8 @@
 以下列舉本主題相關的解決方案：
 
 * Hugo
-* Jekyll
+* [Jekyll](https://gitlab.com/libre-knowledge/jekyll)  
+  基於 Ruby 程式語言與 Liquid 模板語言的靜態網站產生器
 
 ## 參考資料
 
