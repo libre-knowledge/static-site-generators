@@ -12,7 +12,7 @@ version = 1
 
 [[annotations]]
 path = [
-    "/subject-avatar-icon.jpg"
+    "subject-avatar-icon*.jpg"
 ]
 SPDX-FileCopyrightText = '1970 AI generated image, no copyright. <http://www.wtfpl.net/>'
 SPDX-License-Identifier = 'WTFPL'
